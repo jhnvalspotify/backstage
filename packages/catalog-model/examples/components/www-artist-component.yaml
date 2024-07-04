@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: www-artist
-  description: Artist main website
+  name: https://open.spotify.com/user/3165e2gscskowf4p5qwh6fpliosq?si=f5b88f2251994e8a
+  description: Artist Spotify Profile 
   annotations:
     backstage.io/source-template: template:default/react-ssr-template
 spec:
